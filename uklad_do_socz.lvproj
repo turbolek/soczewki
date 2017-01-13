@@ -44,6 +44,7 @@
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
 				<Item Name="compatWriteText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatWriteText.vi"/>
 				<Item Name="Convert property node font to graphics font.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Convert property node font to graphics font.vi"/>
+				<Item Name="DAQmx Clear Task.vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/configure/task.llb/DAQmx Clear Task.vi"/>
 				<Item Name="DAQmx Create AI Channel (sub).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create AI Channel (sub).vi"/>
 				<Item Name="DAQmx Create AI Channel TEDS(sub).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create AI Channel TEDS(sub).vi"/>
 				<Item Name="DAQmx Create AO Channel (sub).vi" Type="VI" URL="/&lt;vilib&gt;/DAQmx/create/channels.llb/DAQmx Create AO Channel (sub).vi"/>
@@ -235,17 +236,21 @@
 				<Item Name="Write File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write File+ (string).vi"/>
 			</Item>
 			<Item Name="AcquireData.vi" Type="VI" URL="../AcquireData.vi"/>
+			<Item Name="ArrayAverage.vi" Type="VI" URL="../ArrayAverage.vi"/>
 			<Item Name="Calibrate.vi" Type="VI" URL="../Calibrate.vi"/>
 			<Item Name="CalibrationDialog.vi" Type="VI" URL="../CalibrationDialog.vi"/>
+			<Item Name="DAQConfig.vi" Type="VI" URL="../DAQConfig.vi"/>
+			<Item Name="DataAcquireParameters.vi" Type="VI" URL="../DataAcquireParameters.vi"/>
+			<Item Name="FineCalibration.vi" Type="VI" URL="../FineCalibration.vi"/>
 			<Item Name="GetPeakPosition.vi" Type="VI" URL="../GetPeakPosition.vi"/>
+			<Item Name="Global.vi" Type="VI" URL="../Global.vi"/>
 			<Item Name="LockServoWhileMoving.vi" Type="VI" URL="../LockServoWhileMoving.vi"/>
 			<Item Name="nilvaiu.dll" Type="Document" URL="nilvaiu.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="SafeMovementToPosition.vi" Type="VI" URL="../SafeMovementToPosition.vi"/>
 			<Item Name="ScanPositionRange.vi" Type="VI" URL="../ScanPositionRange.vi"/>
-			<Item Name="Untitled 15.vi" Type="VI" URL="../../soczewy_lab_MJ_DB/conex/Untitled 15.vi"/>
-			<Item Name="WaveformToArrayOfDbl.vi" Type="VI" URL="../WaveformToArrayOfDbl.vi"/>
+			<Item Name="WaveformToCluster.vi" Type="VI" URL="../WaveformToCluster.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
